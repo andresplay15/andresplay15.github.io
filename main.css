@@ -1,0 +1,33 @@
+.body1 {
+    font-family: arial;
+    background-color: grey
+    padding: 15px;
+}
+
+.body2 {
+    font-family: arial;
+    background-color: lightgray;
+    padding: 20px;
+}
+
+
+.box1 {
+    border: 3px solid;
+    background-color: lightgrey;
+    width: auto;
+    
+}
+
+.box2 {
+    border: 3px solid;
+    background-color: lightgrey;
+    width: 500px;
+    height: 400px
+}
+
+
+#head1 {
+    text-align:center;
+    color: solid;
+}
+
